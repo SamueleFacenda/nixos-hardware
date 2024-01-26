@@ -3,6 +3,8 @@
 This should address the problems with the surface devices.
 Take a look at [this](https://github.com/NixOS/nixos-hardware/issues/523) issue if
 you want more info about this.
+# EDIT
+Now that NixOS/nixos-hardware/pull/839 is merged there is no difference between this fork and the main repo.
 
 ## Setup
 
